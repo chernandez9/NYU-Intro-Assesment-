@@ -1,5 +1,15 @@
 /* add code here to make your image 300px square */
-
+img {
+    height: 300px;
+}
 /* add code here to change the color and font family of your name/title */
+#dogName {
+    font-family: Helvetica;
+    color: pink;
+}
+
+#listItems {
+    color: palevioletred
+}
 
 /* Bonus: change the color of your list elements */
